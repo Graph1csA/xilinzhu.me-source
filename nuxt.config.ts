@@ -84,7 +84,7 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: allMarkdowns  // Make sure this variable is defined somewhere
+      //routes: allMarkdowns  // Make sure this variable is defined somewhere
     }
   }
 })
