@@ -8,7 +8,7 @@ title: Publications
 ---
 ::
 
-::UltraWideRow
+<!-- ::UltraWideRow
 
 ::PublicationRow
 ---
@@ -280,6 +280,6 @@ artifactLinks:
     Website: /project/deep-spectrum/
 hideBottomBorder: true
 ---
-::
+:: 
 
-::
+:: -->

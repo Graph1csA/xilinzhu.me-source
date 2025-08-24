@@ -4,13 +4,13 @@ const { path } = useRoute()
 const firstRoute = path.split('/')[1]
 const navigatorItems = [
     { path: '/', text: 'Home' },
-    { path: '/news/', text: 'News' },
-    { path: '/publication/', text: 'Publication' },
+    // { path: '/news/', text: 'News' },
+    // { path: '/publication/', text: 'Publication' },
     // { path: '/research/', text: 'Research' },
-    { path: '/project/', text: 'Projects' },
+    // { path: '/project/', text: 'Projects' },
     { path: '/personal/', text: 'Personal' },
     // { path: '/blog/', text: 'Blog' },
-    { path: '/yiqinzhao-cv.pdf', text: 'CV' },
+    { path: '/xilinzhu-cv.pdf', text: 'CV' },
 ].map(v => {
     v.active = v.path.split('/')[1] === firstRoute
     return v
@@ -24,8 +24,8 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
         <div class="md:flex justify-between max-w-6xl mx-auto">
             <a class="text-xl font-bold hover:dark:text-white hover:text-black transition-colors" href="/">
                 <span :class="{ 'opacity-0': path === '/' }">
-                    <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
-                        src="/assets/img/qin-logo.svg" alt="">
+                    <img class="inline w-10 dark:invert transition-opacity opacity-100 hover:opacity-100"
+                        src="/assets/img/cat_1.jpg" alt="">
                 </span>
             </a>
 

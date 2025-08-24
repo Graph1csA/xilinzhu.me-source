@@ -10,7 +10,7 @@ title: News
 ---
 ::
 
-- 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.
+<!-- - 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.
 - 🎉 **July 03, 2025** Our paper, [CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](https://arxiv.org/pdf/2411.02179) has been accepted by IMWUT 2025!
 - 🎉 **March 27, 2025** I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
 - 🎉 **August 11, 2024** One paper accepted at ImmerCom 2024!
@@ -44,4 +44,4 @@ title: News
 - 🔥 **August 15, 2018** Our paper about human speech emotion in spectrogram representation has submitted to ACM Multimedia 2018 ASMMC-MMAC workshop!
 - 👨🏻‍💻 **July 04, 2018** I joined the DuerOS department at Baidu, Inc as a frontend software engineer intern.
 - 🏆 **September 30, 2017** I received third prize of the 2017 China national Mobile Innovation Contest (top 6%).
-- 🏆 **September 30, 2016** I received third prize of the 2016 China national Mobile Innovation Contest (top 10%).
+- 🏆 **September 30, 2016** I received third prize of the 2016 China national Mobile Innovation Contest (top 10%). -->

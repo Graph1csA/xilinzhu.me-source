@@ -8,26 +8,46 @@ disableFancyImage: true
 ::
 
 
-::SplitBlock
-#left
-## 🦸🏻‍♂️ About Me
+<!-- ::SplitBlock -->
+<!-- #left -->
+## About Me
 
-I am an assistant professor at [Rochester Insitute of Technology (RIT)](https://rit.edu).
+My name is Xilin Zhu. I am an incoming Ph.D student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
+Currently, I am a Research Assistant at Nanjing University in Prof. Beibei Wang's lab.
+
+I am interested in Computer Graphics and Generative Models.
+Specifically, my current research focuses on exploring how generative models could facilitate 3D reconstruction tasks.
+<!-- I am an assistant professor at [Rochester Insitute of Technology (RIT)](https://rit.edu).
 I received my Ph.D. from [Worcester Polytechnic Institute (WPI)](https://wpi.edu) in August 2025.
 During my Ph.D. study, I have worked on AR environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
 My current research focuses on building AI models and system support for real-world applications in dynamic contexts, with a special emphasis on enabling the seamless integration between virtual contents and the physical world.
-In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu.
+In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu. -->
 
-#right
-## 📰 News
+<!-- #right -->
+<!-- ## 📰 News
 
 ::ShortNews
 ::
 
-[More news >>>](/news/)
+[More news >>>](/news/) -->
+
+
+## 🧑‍🎓 Education
+
+::ExperienceRow{icon=rit.png}
+**Rochester Institute of Technology, Rochester, NY**\
+Ph.D. Student in Computing and Information Sciences\
+Expected: Aug 2026 - Present
 ::
 
-::UltraWideRow
+::ExperienceRow{icon=tjnu.png}
+**Tianjin Normal University, Tianjin, China**\
+Bachelor of Engineering in Software Engineering\
+Sep 2018 - Jun 2024
+::
+
+
+<!-- ::UltraWideRow
 ## 📄 Selected Publications
 
 ::PublicationRow
@@ -193,10 +213,10 @@ artifactLinks:
     Slides: https://drive.google.com/file/d/1NUHDf3uxNuXwvqFjXw6BGFADgQdOc9tp/view?usp=sharing
     Website: /project/point-ar/
 ---
-::
+:: -->
 
 
-[Full publication list >>>](/publication/)
+<!-- [Full publication list >>>](/publication/) -->
 
 <!--
 ## ❤️ Services and Awards
@@ -222,3 +242,31 @@ artifactLinks:
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
 :: -->
+
+
+## 📱 Contacts
+
+::contact-item
+---
+icon: email
+url: mailto:alex.xilin.zhu@gmail.com
+---
+Email
+::
+
+<!-- ::contact-item
+---
+icon: github
+url: https://github.com/YoruCathy
+---
+GitHub
+::
+
+::contact-item
+---
+icon: twitter
+url: https://twitter.com/Nekovowo
+---
+Twitter
+::
+ -->

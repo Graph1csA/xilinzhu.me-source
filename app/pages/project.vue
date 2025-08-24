@@ -1,8 +1,8 @@
 <script setup lang="ts">
 const { data: query } = await useAsyncData(() => {
-    return queryCollection('project')
-        .order("date", "DESC")
-        .all()
+//    return queryCollection('project')
+//        .order("date", "DESC")
+//        .all()
 })
 </script>
 <template>

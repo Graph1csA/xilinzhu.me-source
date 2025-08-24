@@ -38,14 +38,16 @@ h2 a:before {
 <script setup>
 useHead({
     titleTemplate: (titleChunk) => {
-        return titleChunk ? `${titleChunk} - Yiqin Zhao` : 'Yiqin Zhao';
+        return titleChunk ? `${titleChunk} - Xilin Zhu` : 'Xilin Zhu';
     }
 })
 </script>
 
 <template>
-
+<!--
   <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
+-->
+  <Link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧙</text></svg>"/>
   <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.css"/>
 
   <!-- <Meta name="theme-color" content="#f5f5f4" media="(prefers-color-scheme: light)"/> -->

@@ -1,30 +1,16 @@
 <template>
     <div class="mb-16">
-        <div class="fixed z-50 left-0 top-0 w-full h-full flex justify-center items-center bg-black/80 flex-col opacity-0 transition-opacity duration-500"
-            :class="{ 'opacity-100': animalDetailViewOpen, 'translate-y-[-100vh]': !animalDetailViewOpen }"
-            v-on:click="onAnimalImageClick">
-            <img class="w-full mb-2 md:w-1/2" src="/assets/img/animals.png"
-                title="Shiloh, my cat, and Stella, my dog" />
-            <p class="text-white text-center text-2xl mt-0">🐈‍⬛ Shiloh & 🐕Stella</p>
-        </div>
 
         <div class="container md:w-[140%] md:ml-[-20%] px-0 md:pt-0">
             <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
 
                 <div class="w-[55%] hidden md:flex flex-col items-center justify-start shadow-lg
                             p-12 py-8 z-20 h-fit absolute left-0 bg-neutral-100 dark:bg-neutral-700 bottom-16">
-                    <p class="w-full text-6xl py-4 m-0 font-bold">Yiqin Zhao</p>
+                    <p class="w-full text-6xl py-4 m-0 font-bold">Xilin Zhu</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left text-gray-500">
-                        赵一勤 | Yiqin (Pronunciation: ee-cheen) <br />
-                        Assistant Professor  <br />
-                        School of Interactive Games and Media  <br />
+                        Incoming Ph.D Student <br />
                         Golisano College of Computing and Information Sciences
-                        Rochester Institute of Technology
-                    </p>
-                    <p class="w-full text-l pl-3 prose dark:prose-invert mt-2 mb-0 text-left text-gray-400">
-                        <b>Office:</b> GOL-2545  <br />
-                        20 Lomb Memorial Dr,
-                        Rochester, NY 14623
+                        Rochester Institute of Technology <br />
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">
@@ -32,6 +18,7 @@
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/email.svg" alt="">
                             </a>
+                            <!--
                             <a href="https://github.com/YiqinZhao">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/github.svg" alt="">
@@ -44,26 +31,27 @@
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/bluesky.svg" alt="">
                             </a>
+                            -->
                         </span>
                     </p>
                 </div>
 
-                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%] cursor-pointer hover:scale-105 transition duration-300"
-                    src="/assets/img/animals.png" title="Shiloh, my cat, and Stella, my dog"
-                    v-on:click="onAnimalImageClick" />
+
 
                 <div class="relative w-full md:w-1/2 shadow-lg my-0 md:my-12 z-10">
+                <!--
                     <a class="hover:opacity-100" href="https://rit.edu">
                         <img class="w-1/6 m-0 absolute top-5 right-3 hover:scale-110 transition duration-300" src="/assets/img/rit-logo.png" alt="">
                     </a>
-                    <img class="w-full my-0" src="/assets/img/hero-3-4.jpg" alt="" />
+                -->
+                    <img class="w-full my-0" src="/assets/img/portrait.jpg" alt="" />
                 </div>
                 
 
                 <div class="absolute h-full w-[75%] left-0 z-[-1]"></div>
 
-                <img class="hidden md:block absolute w-3/5 top-[-8rem] left-[-5rem] dark:invert z-[-1] opacity-30"
-                    src="/assets/img/qin-logo.svg" alt="">
+                <img class="hidden md:block absolute w-1/3 h-auto top-[-4rem] left-[5rem] dark:invert z-[-1] opacity-80"
+                    src="/assets/img/cat_1.jpg" alt="">
             </div>
 
         </div>
@@ -73,7 +61,7 @@
             <div class="max-w-prose mt-[3.4rem] opacity-0">
                 <div class="container w-[140%] ml-[-20%] px-0 md:pt-0">
                     <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
-                        <img class="w-full md:w-1/2 shadow-lg my-12 z-10" src="/assets/img/hero-3-4.jpg" alt="" />
+                        <img class="w-full md:w-1/2 shadow-lg my-12 z-10" src="/assets/img/portrait.jpg" alt="" />
                     </div>
                 </div>
             </div>
