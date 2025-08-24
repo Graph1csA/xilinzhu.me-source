@@ -37,7 +37,7 @@ In the past, I also had the fortunate to work with many awesome industry researc
 ::ExperienceRow{icon=rit.png}
 **Rochester Institute of Technology, Rochester, NY**\
 Ph.D. Student in Computing and Information Sciences\
-Expected: Aug 2026 - Present
+Starting Aug 2026
 ::
 
 ::ExperienceRow{icon=tjnu.png}
