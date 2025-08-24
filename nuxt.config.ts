@@ -27,40 +27,9 @@ const allMarkdowns = findMarkdownFiles('./content')
   .map(v => v.replace("content", "").replace(".md", "/").replace("index/", ""))
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
-// export default defineNuxtConfig({
-//   compatibilityDate: '2025-03-28',
-//   ssr: false,
-//   modules: [
-//     '@nuxt/content',
-//     '@nuxtjs/tailwindcss',
-//     '@nuxtjs/color-mode',
-//   ],
-//   devtools: { enabled: true },
-//   future: {
-//     compatibilityVersion: 4,
-//   },
-
-//   // ADD THIS FOR GITHUB PAGES:
-//   app: {
-//     baseURL: '/xilinzhu.me-source/', // This is the key addition!
-//   },
-  
-//   postcss: {
-//     plugins: {
-//       tailwindcss: {},
-//       autoprefixer: {},
-//     },
-//   },
-//   nitro: {
-//     prerender: {
-//       crawlLinks: true,
-//       routes: allMarkdowns
-//     }
-//   }
-// })
-
 export default defineNuxtConfig({
   compatibilityDate: '2025-03-28',
+  ssr: false,
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
@@ -70,21 +39,22 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
+
   // ADD THIS FOR GITHUB PAGES:
   app: {
     baseURL: '/xilinzhu.me-source/', // This is the key addition!
   },
+  
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
     },
   },
-  // Only ONE nitro section:
   nitro: {
     prerender: {
       crawlLinks: true,
-      //routes: allMarkdowns  // Make sure this variable is defined somewhere
+      routes: allMarkdowns
     }
   }
 })
