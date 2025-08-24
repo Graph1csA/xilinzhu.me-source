@@ -39,12 +39,6 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
-
-  // ADD THIS FOR GITHUB PAGES:
-  app: {
-    baseURL: '/xilinzhu.me-source/', // This is the key addition!
-  },
-  
   postcss: {
     plugins: {
       tailwindcss: {},
