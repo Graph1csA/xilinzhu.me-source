@@ -44,7 +44,7 @@ const allMarkdowns = findMarkdownFiles('./content')
 //   app: {
 //     baseURL: '/xilinzhu.me-source/', // This is the key addition!
 //   },
-
+  
 //   postcss: {
 //     plugins: {
 //       tailwindcss: {},
@@ -61,9 +61,6 @@ const allMarkdowns = findMarkdownFiles('./content')
 
 export default defineNuxtConfig({
   compatibilityDate: '2025-03-28',
-  app: {
-    baseURL: '/xilinzhu.me-source/',
-  },
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
@@ -73,15 +70,21 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
+  // ADD THIS FOR GITHUB PAGES:
+  app: {
+    baseURL: '/xilinzhu.me-source/', // This is the key addition!
+  },
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
     },
   },
+  // Only ONE nitro section:
   nitro: {
     prerender: {
       crawlLinks: true,
+      routes: allMarkdowns  // Make sure this variable is defined somewhere
     }
   }
 })
