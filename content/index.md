@@ -13,7 +13,7 @@ disableFancyImage: true
 ## About Me
 
 My name is Xilin Zhu. I am an incoming Ph.D student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
-Currently, I am a Research Assistant at Nanjing University in Prof. Beibei Wang's lab.
+Piror to that, I was a Research Assistant at Nanjing University in Prof. Beibei Wang's lab.
 
 I am interested in Computer Graphics and Generative Models.
 Specifically, my current research focuses on exploring how generative models could facilitate 3D reconstruction tasks.
