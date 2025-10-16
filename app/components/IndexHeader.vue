@@ -9,7 +9,7 @@
                     <p class="w-full text-6xl py-4 m-0 font-bold">Xilin Zhu</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left text-gray-500">
                         Incoming Ph.D Student <br />
-                        Golisano College of Computing and Information Sciences
+                        Golisano College of Computing and Information Sciences,
                         Rochester Institute of Technology <br />
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
