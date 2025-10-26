@@ -14,7 +14,7 @@
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">
-                            <a href="mailto:yzigm@rit.edu">
+                            <a href="mailto:alex.xilin.zhu@gmail.com">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/email.svg" alt="">
                             </a>
