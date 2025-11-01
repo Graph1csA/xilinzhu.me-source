@@ -4,7 +4,7 @@ const { path } = useRoute()
 const firstRoute = path.split('/')[1]
 const navigatorItems = [
     { path: '/', text: 'Home' },
-    { path: '/news/', text: 'News' },
+    // { path: '/news/', text: 'News' },
     // { path: '/publication/', text: 'Publication' },
     // { path: '/research/', text: 'Research' },
     // { path: '/project/', text: 'Projects' },

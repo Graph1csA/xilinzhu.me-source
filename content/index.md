@@ -29,7 +29,7 @@ In the past, I also had the fortunate to work with many awesome industry researc
 ::ShortNews
 ::
 
-[More news >>>](/news/)
+<!-- [More news >>>](/news/) -->
 
 
 ## 🧑‍🎓 Education
