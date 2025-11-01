@@ -24,12 +24,12 @@ My current research focuses on building AI models and system support for real-wo
 In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu. -->
 
 <!-- #right -->
-<!-- ## 📰 News
+## 📰 News
 
 ::ShortNews
 ::
 
-[More news >>>](/news/) -->
+[More news >>>](/news/)
 
 
 ## 🧑‍🎓 Education
