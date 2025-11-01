@@ -1,5 +1,6 @@
 ---
 title: News
+hideTitle: false
 leadingImage: me-news-google.png
 disableFancyImage: true
 ---

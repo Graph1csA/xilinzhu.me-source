@@ -1,10 +1,14 @@
 <script setup lang="ts">
 const route = useRoute()
-const { data: page } = await useAsyncData(() => {
+const { data: page } = await useAsyncData(
+  route.path,
+  () => {
   return queryCollection('page')
     .path(route.path)
     .first()
-})
+},
+{ watch: [() => route.path] }  // ← Watch for route changes
+)
 </script>
 
 <template>
