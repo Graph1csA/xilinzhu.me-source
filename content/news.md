@@ -11,7 +11,7 @@ title: News
 ---
 ::
 
-- 🎉 **October 31, 2025** I am thrilled to announce that I will start my Ph.D journey with [Prof. Yiqin Zhao](https://yiqinzhao.phd/)!
+- 🎉 **January 29, 2026** I am thrilled to announce that I will start my Ph.D journey with [Prof. Yiqin Zhao](https://yiqinzhao.phd/)!
 
 <!-- - 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.
 - 🎉 **July 03, 2025** Our paper, [CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](https://arxiv.org/pdf/2411.02179) has been accepted by IMWUT 2025!
