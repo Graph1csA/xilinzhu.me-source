@@ -6,7 +6,7 @@
                 <div>
                     <p class="text-sm text-left">
                         朱玺霖 | Xilin <br />
-                        Incoming Ph.D Student <br />
+                        Ph.D Student <br />
                         Department of Computing and Information Sciences <br />
                         Rochester Institute of Technology <br />
                     </p>
