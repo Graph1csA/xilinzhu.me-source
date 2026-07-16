@@ -8,7 +8,7 @@
                             p-12 py-8 z-20 h-fit absolute left-0 bg-neutral-100 dark:bg-neutral-700 bottom-16">
                     <p class="w-full text-6xl py-4 m-0 font-bold">Xilin Zhu</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left text-gray-500">
-                        Incoming Ph.D Student <br />
+                        Ph.D Student <br />
                         Golisano College of Computing and Information Sciences,
                         Rochester Institute of Technology <br />
                     </p>
