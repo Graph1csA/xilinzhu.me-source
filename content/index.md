@@ -12,7 +12,7 @@ disableFancyImage: true
 <!-- #left -->
 ## About Me
 
-My name is Xilin Zhu. I am an Ph.D student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
+My name is Xilin Zhu. I am a Ph.D student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
 Piror to that, I was a Research Assistant at Nanjing University in Prof. Beibei Wang's lab.
 
 I am interested in Computer Graphics and Generative Models.
