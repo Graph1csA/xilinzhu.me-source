@@ -12,16 +12,11 @@ disableFancyImage: true
 <!-- #left -->
 ## About Me
 
-My name is Xilin Zhu. I am a Ph.D student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
-Piror to that, I was a Research Assistant at Nanjing University in Prof. Beibei Wang's lab.
+My name is Xilin Zhu. I am a first-year Ph.D. student at Rochester Institute of Technology, advised by [Prof. Yiqin Zhao](https://yiqinzhao.phd).
+Prior to joining RIT, I was a Research Assistant at Nanjing University.
 
-I am interested in Computer Graphics and Generative Models.
-Specifically, my current research focuses on exploring how generative models could facilitate 3D reconstruction tasks.
-<!-- I am an assistant professor at [Rochester Insitute of Technology (RIT)](https://rit.edu).
-I received my Ph.D. from [Worcester Polytechnic Institute (WPI)](https://wpi.edu) in August 2025.
-During my Ph.D. study, I have worked on AR environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
-My current research focuses on building AI models and system support for real-world applications in dynamic contexts, with a special emphasis on enabling the seamless integration between virtual contents and the physical world.
-In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu. -->
+I am interested in Computer Graphics and Generative Models. 
+Specifically, my current research focuses on exploring how generative models can facilitate 3D reconstruction tasks.
 
 <!-- #right -->
 ## 📰 News
